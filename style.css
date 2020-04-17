@@ -1,0 +1,32 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	max-width: 100%;
+	max-height: 100%;
+	background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron {
+	background-color: pink;
+
+}
+.nav {
+	background-color: purple;
+
+}
+
+.btn-lg {
+	background-color: purple;
+	color: #e6bbe5;
+	border-radius: 300px;
+	border-width: 1px;
+	border-color: pink;
+}
+.container{
+
+	height: 140rem;
+	width: 150rem;
+}
